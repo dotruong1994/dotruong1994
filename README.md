@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Steve -Do Vu Truong
 - 👀 I’m interested in embedded system, arduino...
 - 🌱 I’m currently learning programing
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on other content github Code Example
 - 📫 How to reach me :https://www.facebook.com/truong.dovu
 
 <!---
